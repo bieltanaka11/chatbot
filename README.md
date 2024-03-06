@@ -1,6 +1,6 @@
 # chatbot
 
-# Chatbot desenvovlido utilizando diversas intenções sob o contexto de auxiliar um usuário com dúvidas relacionadas ao projeto PIPE. Utilizamos como base o site: https://fapesp.br/pipe/ 
+# Intenções utilizadas>
 {"intents":[
   { "tag": "saudacao",
     "patterns":["Ola","Opa","Oi", "tudo bem"],
