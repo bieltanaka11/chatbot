@@ -1,6 +1,6 @@
 # chatbot
 
-## Chatbot desenvovlido utilizando as intetions: 
+## Chatbot desenvovlido utilizando diversas intenções sob o contexto de auxiliar um usuário com dúvidas relacionadas ao projeto PIPE. Utilizamos como base o site: https://fapesp.br/pipe/ 
 {"intents":[
   { "tag": "saudacao",
     "patterns":["Ola","Opa","Oi", "tudo bem"],
@@ -88,3 +88,9 @@
 ## Exemplo de funcionamento do bot
 
 ![image](https://github.com/bieltanaka11/chatbot/assets/85264276/32e03d07-58be-43fb-9a20-6f1e40fea215)
+
+## Autores
+
+Enzo Benvenuti 
+Gabriel Carvalho 
+Leonardo Guerra 
