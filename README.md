@@ -1,4 +1,4 @@
-## chatbot
+# chatbot
 
 # Chatbot desenvovlido utilizando diversas intenções sob o contexto de auxiliar um usuário com dúvidas relacionadas ao projeto PIPE. Utilizamos como base o site: https://fapesp.br/pipe/ 
 {"intents":[
@@ -89,7 +89,12 @@
 
 ![image](https://github.com/bieltanaka11/chatbot/assets/85264276/32e03d07-58be-43fb-9a20-6f1e40fea215)
 
+# Link com vídeo de demonstração do funcionamento
+
+https://www.veed.io/view/fe482271-8661-4689-a6c1-558a8b72ccfc?panel=share
+
 # Autores
                                                                                                                                                                                 
-  Enzo Benvenuti                                                                                                                                                               Gabriel Carvalho                                                                                                                                                            
+  Enzo Benvenuti                                                                                                                                                             
+  Gabriel Carvalho                                                                                                                                                            
   Leonardo Guerra 
