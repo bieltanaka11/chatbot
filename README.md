@@ -1,6 +1,6 @@
 # chatbot
 
-# Intenções utilizadas>
+### Intenções utilizadas:
 {"intents":[
   { "tag": "saudacao",
     "patterns":["Ola","Opa","Oi", "tudo bem"],
@@ -85,15 +85,15 @@
 ]
 }
 
-# Exemplo de funcionamento do bot
+### Exemplo de funcionamento do bot
 
 ![image](https://github.com/bieltanaka11/chatbot/assets/85264276/32e03d07-58be-43fb-9a20-6f1e40fea215)
 
-# Link com vídeo de demonstração do funcionamento
+### Link com vídeo de demonstração do funcionamento
 
 https://www.veed.io/view/fe482271-8661-4689-a6c1-558a8b72ccfc?panel=share
 
-# Autores
+### Autores
                                                                                                                                                                                 
   Enzo Benvenuti                                                                                                                                                             
   Gabriel Carvalho                                                                                                                                                            
