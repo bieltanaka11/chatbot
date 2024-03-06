@@ -90,7 +90,6 @@
 ![image](https://github.com/bieltanaka11/chatbot/assets/85264276/32e03d07-58be-43fb-9a20-6f1e40fea215)
 
 # Autores
-
-Enzo Benvenuti 
-Gabriel Carvalho 
-Leonardo Guerra 
+                                                                                                                                                                                
+  Enzo Benvenuti                                                                                                                                                               Gabriel Carvalho                                                                                                                                                            
+  Leonardo Guerra 
